@@ -1,0 +1,6 @@
+{
+  "model": "att_det_lstm.h5",
+  "threshold": 0.5,
+  "metric": "F1",
+  "f1": 0.7444347144766558
+}
